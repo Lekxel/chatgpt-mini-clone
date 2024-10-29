@@ -1,0 +1,13 @@
+{
+	"cSpell.words": [],
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit"
+	},
+	"files.insertFinalNewline": true,
+	"search.exclude": {
+		"**/node_modules": false,
+		"**/node_modulesd": true
+	}
+}
