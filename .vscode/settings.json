@@ -1,5 +1,7 @@
 {
-	"cSpell.words": [],
+	"cSpell.words": [
+		"SUPABASE"
+	],
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	"editor.codeActionsOnSave": {
